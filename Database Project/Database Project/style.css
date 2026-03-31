@@ -1,0 +1,40 @@
+body{
+    font-family: Arial;
+    background-color:#0c0f24;
+    color:white;
+
+}
+
+
+.navbar{
+    background:#111a45;
+    padding: 15px;;
+}
+
+.navbar a{
+    margin-right: 15px;
+    color:white;
+    text-decoration: none;
+    font-weight:bold;
+}
+
+form{
+    background:#1a214f;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+input, select{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button{
+    background:#f5c542;
+    border:none;
+    padding: 10px;
+    margin-right: 5px;
+    font-weight:bold;
+}
